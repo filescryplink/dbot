@@ -1,0 +1,6 @@
+{
+  "name": "DBOT Portal",
+  "description": "Nền tảng giao dịch tự động tối giản - Kết nối tài khoản và nhận tín hiệu AI thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
